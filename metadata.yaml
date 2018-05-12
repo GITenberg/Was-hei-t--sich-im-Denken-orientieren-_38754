@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1426
     wikipedia: http://en.wikipedia.org/wiki/Immanuel_Kant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38754#Was-hei-t--sich-im-Denken-orientieren-
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2012-02-03'
 gutenberg_type: Text
